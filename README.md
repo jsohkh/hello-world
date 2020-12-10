@@ -1,4 +1,3 @@
 # hello-world
 my first repository
-
-#hehehe
+Hello humans, I like to eat mooncakes
